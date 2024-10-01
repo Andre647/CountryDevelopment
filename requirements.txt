@@ -7,4 +7,4 @@ pycountry_convert
 plotly.express
 streamlit
 scipy
-sklearn
+scikit-learn
