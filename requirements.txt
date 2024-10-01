@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+pycountry
+pycountry_convert
+plotly.express
+streamlit
