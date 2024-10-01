@@ -50,7 +50,7 @@ Steps:
 ## Results
 ![image](https://github.com/user-attachments/assets/13b225b2-1a35-456b-971b-1ebafea3a78b)
 
-* [Project Video(PT-BR)](https://youtu.be/wKpKfJYoIjY)
+* [Project Video(PT-BR)](https://www.youtube.com/watch?v=95pWVWxHcEQ)
 
 ## Conclusion
  - We can visualize that the countries in need of the most help are located on the African continent, specifically those centralized and near the Sahara Desert.
